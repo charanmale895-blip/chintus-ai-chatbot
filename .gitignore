@@ -1,5 +1,15 @@
+# Environment / secrets
 .env
 *.env
+
+# Python virtual environment
 venv/
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Local user data
+users.json
+users/
