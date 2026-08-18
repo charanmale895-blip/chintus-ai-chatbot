@@ -220,7 +220,7 @@ gemini_client = genai.Client(
 # GEMINI MODEL
 # =========================================================
 
-MODEL_NAME = "gemini-3.5-flash-lite"
+MODEL_NAME = "gemini-3.5-flash"
 
 
 # =========================================================
